@@ -24,7 +24,7 @@ go get github.com/addcnos/youdu/v2
    
 ### Usage
 
-Please refer to the [Documentation](./docs)
+Please refer to the [Documentation](./_docs)
 
 ```go
 package main
